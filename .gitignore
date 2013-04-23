@@ -3,3 +3,7 @@ deps
 *.o
 *.beam
 *.plt
+
+# eclipse project
+*.project
+.settings/
