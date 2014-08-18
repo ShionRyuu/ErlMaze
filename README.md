@@ -10,5 +10,5 @@ Maze generate algorithms in Erlang
 
 ## Todo
 
-1. mora algorithms
+1. more algorithms
 
