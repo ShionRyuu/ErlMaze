@@ -1,0 +1,6 @@
+{application, maze, [
+    {description, "Maze generation algorithm in Erlang"},
+    {vsn, "0.1.0"},
+    {applications, [kernel, stdlib]},
+    {registered, [maze]}
+]}.

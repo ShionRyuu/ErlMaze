@@ -1,9 +1,9 @@
-.eunit
-deps
-*.o
+# ext
 *.beam
-*.plt
+*.iml
 
-# eclipse project
-*.project
-.settings/
+# dir
+.idea
+.eunit
+.rebar
+ebin
